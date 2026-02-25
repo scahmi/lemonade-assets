@@ -1,0 +1,2 @@
+# lemonade-assets
+Game assets.
